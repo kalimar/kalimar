@@ -7,18 +7,6 @@ My background blends software engineering, product leadership, and executive-fac
 
 ---
 
-## Focus
-
-- Developer-first platforms  
-- Technical enablement & adoption  
-- Platform strategy and systems clarity  
-- High-trust, low-ego collaboration  
-- Craft — in both software and physical builds  
-
-I believe good systems reduce friction, create leverage, and allow builders to focus on meaningful work.
-
----
-
 ## Selected Work & Community Involvement
 
 ### Terrastories  
