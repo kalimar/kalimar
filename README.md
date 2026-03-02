@@ -19,15 +19,26 @@ I believe good systems reduce friction, create leverage, and allow builders to f
 
 ---
 
-## Selected Work & Community
+## Selected Work & Community Involvement
 
-- Early contributor to open-source initiatives like [Terrastories](https://github.com/Terrastories/terrastories)  
-- Founding organizer of [Ruby for Good](https://github.com/kalimar/rubyforgood.com)  
-- Founder of Code & Coffee Northern Virginia  
-- Exploration in agentic workflows via [GitHub Support Bot](https://github.com/kalimar/github-support-bot)
+### Terrastories  
+Early contributor helping get the project off the ground in its formative stage.  
+https://github.com/Terrastories/terrastories  
+
+### Ruby for Good  
+Founding organizer. Helped build the initial structure and community that continues today.  
+https://github.com/kalimar/rubyforgood.com  
+
+### Code & Coffee Northern Virginia  
+Founder. Built a local developer community focused on learning and collaboration.  
+https://github.com/NoVACodeCoffee/novacodecoffee.github.io  
+
+### GitHub Support Bot  
+Recent exploration in agentic workflows and GitHub-native automation.  
+https://github.com/kalimar/github-support-bot  
 
 More experiments and writing live at:  
-👉 **https://kalimar.github.io**
+👉 https://kalimar.github.io
 
 ---
 
